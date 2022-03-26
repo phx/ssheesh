@@ -1,5 +1,7 @@
 # SSHeesh
 
+**This project has been abandoned in favor of [https://github.com/HDN-1D10T/divinity](https://github.com/HDN-1D10T/divinity), which is now completely concurrent and can process the same 1 day workload as `SSHeesh` in 14 minutes.***
+
 `SSHeesh` is a multi-threaded red team tool for SSH credential spraying.
 
 ## Dependencies
